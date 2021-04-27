@@ -1,0 +1,15 @@
+---STEP 1---
+Go into the Minecraft Launcher and add 1.16.5. Run it. Once you get to the main menu, exit out.
+
+---STEP 2---
+Go here to install the correct version of forge: 
+https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.16.5-36.1.0/forge-1.16.5-36.1.0-installer.jar
+
+Run forgelauncher through minecraft launcher. Make sure to navigate to Forge 1.16.5. Once you get to the main menu, exit out again.
+
+---Step 3---
+Drag and drop all of the .jar files from this directory to your minecraft mods folder.
+If you don't know how to get to the mods folder, just hold down the windows key and tap 'R'. Type '%appdata%' into the textfield. Hit enter. Navigate to .minecraft\mods. Copy the mods over.
+
+---Step 4---
+Play the game!
