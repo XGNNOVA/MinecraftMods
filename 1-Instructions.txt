@@ -3,13 +3,61 @@ Go into the Minecraft Launcher and add 1.16.5. Run it. Once you get to the main 
 
 ---STEP 2---
 Go here to install the correct version of forge: 
-https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.16.5-36.1.0/forge-1.16.5-36.1.0-installer.jar
+https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge
+/1.16.5-36.1.0/forge-1.16.5-36.1.0-installer.jar
 
-Run forgelauncher through minecraft launcher. Make sure to navigate to Forge 1.16.5. Once you get to the main menu, exit out again.
+Run forgelauncher through minecraft launcher. Make sure to navigate to Forge 1.16.5. 
+Once you get to the main menu, exit out again.
 
 ---Step 3---
 Drag and drop all of the .jar files from this directory to your minecraft mods folder.
-If you don't know how to get to the mods folder, just hold down the windows key and tap 'R'. Type '%appdata%' into the textfield. Hit enter. Navigate to .minecraft\mods. Copy the mods over.
+If you don't know how to get to the mods folder, just hold down the windows key and tap 'R'. 
+Type '%appdata%' into the textfield. Hit enter. Navigate to .minecraft\mods. Copy the mods over.
 
 ---Step 4---
 Play the game!
+
+
+---Mod List--- (Verified Forge supported)
+None of the mods below are my own. All can be searched for and found via cursed forge by the names given below.
+
+Biomes O Plenty
+Chisels and Bits
+Gravestone
+Just Enough Items
+Journey Map
+Mantle
+Mouse Tweaks
+Moving Elevators
+Pam's Harvestcraft (+Addons)
+Tinkers's Construct
+Twilight Forest
+Tool Belt
+Dungeon Crawl (+Bug Fix addon)
+Valhelsia Structures
+FindMe
+Traveler's Backpack
+Curious Elytra
+Curio of Undying
+Repurposed Structures
+Craftable Horse Armour & Saddle
+Doggy Talents
+Waystones
+Infernal Expansion
+BetterEnd
+Lootr
+ForgeEndertech
+Large Ore Deposits
+Kotlin for Forge
+Bountiful
+Morpheus
+Jade
+Absent by Design
+ToroHealth Damage Indicators
+Project: Vibrant Journeys
+Better Animals Plus
+Supplementaries
+Friendly Fire
+Collective
+Smaller Nether Portals
+Lantern Colors
